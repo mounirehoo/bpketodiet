@@ -10,7 +10,7 @@ $(function() {
 	
 	    $('#mc-form').ajaxChimp({
         callback: callbackFunctionCta,
-        url: 'http://csmthemes.us3.list-manage.com/subscribe/post?u=9666c25a337f497687875a388&id=5b881a50fb'
+        url: 'https://gmail.us5.list-manage.com/subscribe/post?u=1f4d3171f5268f7867b0851aa&amp;id=a5bb835fa7'
             // http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
     });
 
