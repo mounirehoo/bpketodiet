@@ -17,7 +17,7 @@ $(function() {
     function callbackFunctionCta(resp) {
         if (resp.result === 'success') {
             $('.sub-form-error').slideUp();
-            call_locker();
+            call_locker();*/
         } else if (resp.result === 'error') {
             $('.sub-form-error').slideDown();
         }
